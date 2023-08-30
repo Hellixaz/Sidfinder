@@ -35,6 +35,8 @@ Sidfinder aims to find sensitive information disclosure by examining the source 
 
 ```
 python3 sidfinder.py -d example.com
+```
+```
 python3 sidfinder.py -l url_list.txt
 
 ```
