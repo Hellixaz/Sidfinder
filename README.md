@@ -19,13 +19,14 @@ Sidfinder aims to find sensitive information disclosure by examining the source 
 
 - Download as zip or copy code and create your own python file.
 - If create on your own make sure create other necessarry file:
-  keywords.txt
+- keywords.txt
  
 
 ## Usage
 
 ```
--d 'domain' 	    	Processes the website on the specified domain.
+-h                  	User Manual
+-d 'domain' 	    	  Processes the website on the specified domain.
 -l 'file_path.txt'   	Processes the websites on the file.
 
 ```
