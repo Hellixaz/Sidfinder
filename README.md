@@ -4,7 +4,8 @@ Sensitive Information Disclosure Finder in Source Code
 
 Sidfinder aims to find sensitive information disclosure by examining the source codes of websites in the given domain or domains.
 
-- This tool makes a comparison with the source codes by using the words that may contain sensitive information in the 'keywords.txt' file in the same folder and saves what it finds as 'results.txt'.
+- This tool makes a comparison with the source codes by using the words that may contain sensitive information in the 'keywords.txt' file.
+- And and creates a file named 'results.txt' containing the results in the same folder.
 
 - The reason for the use of keywords as text files is to add data that the user wants to compare and potential disclosures.
 
