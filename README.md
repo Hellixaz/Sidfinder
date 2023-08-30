@@ -7,7 +7,7 @@ Sidfinder aims to find sensitive information disclosure by examining the source 
 - This tool makes a comparison with the source codes by using the words that may contain sensitive information in the 'keywords.txt' file.
 - And and creates a file named 'results.txt' containing the results in the same folder.
 
-- The reason for the use of keywords as text files is to add data that the user wants to compare and potential disclosures.
+The reason for the use of keywords as text files is to add data that the user wants to compare and potential disclosures.
 
 - WARNING: The content of the 'keyword.txt' and 'target file' must be such that there is only one keyword per line.
 
