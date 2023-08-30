@@ -1,7 +1,8 @@
 import sys
 import requests
 
-
+print("\nSTARTING SIDFINDER...")
+print("\nPROCESSING...")
 def find_keyword_occurrences(text, keyword):
     occurrences = []
     start = 0
