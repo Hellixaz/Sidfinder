@@ -27,7 +27,7 @@ Sidfinder aims to find sensitive information disclosure by examining the source 
 
 ```
 -h                  	User Manual
--d 'domain' 	    	  Processes the website on the specified domain.
+-d 'domain' 	     Processes the website on the specified domain.
 -l 'file_path.txt'   	Processes the websites on the file.
 
 ```
