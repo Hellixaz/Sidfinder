@@ -19,7 +19,7 @@ Sidfinder aims to find sensitive information disclosure by examining the source 
 
 - Download as zip or copy code and create your own python file.
 - If create on your own make sure create other necessarry file:
-- keywords.txt
+\n keywords.txt
  
 
 ## Usage
