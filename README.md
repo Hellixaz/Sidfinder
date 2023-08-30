@@ -38,6 +38,5 @@ python3 sidfinder.py -d example.com
 ```
 ```
 python3 sidfinder.py -l url_list.txt
-
 ```
 
