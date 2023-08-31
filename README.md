@@ -1,5 +1,8 @@
 # Sidfinder
 
+![](https://github.com/Hellixaz/Sidfinder/assets/69535237/966a6359-11db-4bf6-8e30-8267abc08f27)
+
+
 Sensitive Information Disclosure Finder in Source Code
 
 Sidfinder aims to find sensitive information disclosure by examining the source codes of websites in the given domain or domains.
