@@ -36,7 +36,8 @@ chmod +x ./Installation.sh
 -OR
 ```
 - Download as zip or copy code and create your own python file.
-- If create on your own make sure create other necessarry file:
+- Install or update requirements
+- Make sure create other necessarry file:
 
   "keywords.txt"
  ```
