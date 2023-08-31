@@ -1,7 +1,6 @@
 # Sidfinder
 
-![](https://github.com/Hellixaz/Sidfinder/assets/69535237/966a6359-11db-4bf6-8e30-8267abc08f27)
-
+![1](https://github.com/Hellixaz/Sidfinder/assets/69535237/21aa3d5a-83f0-4a22-ae35-6efaef817919)
 
 Sensitive Information Disclosure Finder in Source Code
 
