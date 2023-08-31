@@ -18,11 +18,28 @@ The reason for the use of keywords as text files is to add data that the user wa
 
 ## Installations
 
+- Download file to local
+
+```
+git clone https://github.com/Hellixaz/Sidfinder.git
+cd Sidfinder
+```
+- Set permission
+
+```
+chmod +x ./Installation.sh
+```
+- Install requirements
+```
+./Installation.sh
+```
+-OR
+```
 - Download as zip or copy code and create your own python file.
 - If create on your own make sure create other necessarry file:
 
   "keywords.txt"
- 
+ ```
 
 ## Usage
 
